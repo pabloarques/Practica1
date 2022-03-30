@@ -5,6 +5,7 @@ import java.util.ArrayList;
    int n = 9;
    
    String nombres[] = { "Ana", "Luis", "Alicia", "Pedro", "Carmen", "Andrea", "Cristina", "Julio","Patricia" };
+   String poblacion[] = { "Moncofa", "La vall", "Nules", "Alfondeguilla", "Vilarreal", "Castellon", "Grao", "Almenara","La llosa" };
    int edades[] = { 14, 15, 13, 15, 16, 12, 16, 14, 13 };
 
    ArrayList<Persona> lista = new ArrayList<Persona>();
