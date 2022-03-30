@@ -29,4 +29,13 @@ public class Persona {
       return edad;
    }
 
+    public String getPoblacion(){
+      return nombre;
+   }
+
+   public void setPoblacion(){
+      this.poblacion=poblacion;
+   }
+
+
 }//fin Persona
